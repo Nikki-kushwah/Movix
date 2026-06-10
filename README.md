@@ -2,7 +2,7 @@
 
 Movix is a modern, responsive web application designed for movie and TV show enthusiasts. It allows users to explore trending titles, discover detailed information about films and television series, watch trailers, and search for their favorite content. 
 
-Built using **React**, **Vite**, and **SCSS**, this application delivers a fast and fluid user experience by leveraging a robust external movie database API.
+Built using **React**, **Vite**, and **SCSS**, this application delivers a fast and fluid user experience by leveraging a robust external movie database API with an experience to responsive web application.
 
 ---
 
